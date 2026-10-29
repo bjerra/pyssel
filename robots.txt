@@ -1,0 +1,3 @@
+# Utkast – inte publicerat
+User-agent: *
+Disallow: /

@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="Alla pyssel för barn 9–12 år, med filter för kategori, stök och plats.">
+<title>Alla pyssel – Craft Kids (utkast)</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip-link" href="#innehall">Hoppa till innehållet</a>
+<div class="draft-banner" role="note">Utkast – inte publicerat</div>
+<header class="site">
+<a class="brand" href="index.html">Craft Kids<span class="visually-hidden"> – till startsidan</span></a>
+<nav class="main" aria-label="Huvudmeny"><ul><li><a href="index.html">Hem</a></li><li><a href="pyssel.html" aria-current="page">Alla pyssel</a></li><li><a href="om.html">Om</a></li></ul></nav>
+</header>
+<main id="innehall" tabindex="-1">
+<h1>Alla pyssel</h1>
+<p class="lead">Sjutton pyssel och byggprojekt för 9–12 år, med billigt material – papper, kartong, återbruk, garn och saker från naturen. Välj filter för att hitta rätt pyssel.</p>
+<form id="filters" aria-labelledby="filterrubrik" onsubmit="return false">
+<h2 id="filterrubrik">Filtrera</h2>
+<fieldset><legend>Ålder</legend><div class="filter-group"><label><input type="checkbox" name="age" value="9-12" checked disabled> 9–12 år (alla pyssel)</label></div></fieldset>
+<fieldset><legend>Kategori – visar pyssel som har minst en av de valda</legend><div class="filter-group"><label><input type="checkbox" name="cat" value="STEM-light"> Teknik &amp; experiment</label><label><input type="checkbox" name="cat" value="recycled"> Återbruk</label><label><input type="checkbox" name="cat" value="paper"> Papper</label><label><input type="checkbox" name="cat" value="nature"> Natur</label><label><input type="checkbox" name="cat" value="seasonal-winter"> Vinter</label><label><input type="checkbox" name="cat" value="weaving"> Vävning</label><label><input type="checkbox" name="cat" value="yarn"> Garn</label><label><input type="checkbox" name="cat" value="seasonal-any"> Alla högtider</label><label><input type="checkbox" name="cat" value="costume"> Utklädnad</label><label><input type="checkbox" name="cat" value="seasonal-christmas"> Jul</label><label><input type="checkbox" name="cat" value="seasonal-autumn"> Höst &amp; Halloween</label><label><input type="checkbox" name="cat" value="halloween"> Halloween</label></div></fieldset>
+<fieldset><legend>Stök</legend><div class="filter-group"><label><input type="checkbox" name="mess" value="low"> Lite stök</label><label><input type="checkbox" name="mess" value="medium"> Lagom stök</label><label><input type="checkbox" name="mess" value="high"> Mycket stök</label></div></fieldset>
+<fieldset><legend>Plats</legend><div class="filter-group"><label><input type="checkbox" name="place" value="inne"> Kan göras inomhus</label><label><input type="checkbox" name="place" value="ute"> Utomhus</label></div></fieldset>
+<button type="button" id="rensa">Rensa filter</button>
+</form>
+<p id="antal" role="status" aria-live="polite">Visar alla 17 pyssel.</p>
+<ul class="cards" id="lista">
+<li data-cat="STEM-light recycled" data-mess="low" data-place="inne"><h2><a href="projects/balloon-car.html">Bygg en ballongbil</a></h2><p class="meta">9–12 år · 30–45 minuter · Lite stök · Inomhus</p><p class="meta">Kategorier: Teknik &amp; experiment, Återbruk</p></li>
+<li data-cat="paper STEM-light" data-mess="low" data-place="inne"><h2><a href="projects/paper-roller-coaster.html">Bygg en berg-och-dalbana av papper</a></h2><p class="meta">9–12 år · 45–60 minuter (kan byggas ut) · Lite stök · Inomhus</p><p class="meta">Kategorier: Papper, Teknik &amp; experiment</p></li>
+<li data-cat="paper STEM-light" data-mess="low" data-place="inne"><h2><a href="projects/paper-whirlybird.html">Gör en pappershelikopter</a></h2><p class="meta">9–12 år · 15–20 minuter · Lite stök · Inomhus</p><p class="meta">Kategorier: Papper, Teknik &amp; experiment</p></li>
+<li data-cat="recycled nature seasonal-winter" data-mess="medium" data-place="inne ute"><h2><a href="projects/juice-carton-bird-feeder.html">Fågelmatare av juicekartong</a></h2><p class="meta">9–12 år · 45 minuter + torktid för färgen · Lagom stök · Byggs inne, används ute</p><p class="meta">Kategorier: Återbruk, Natur, Vinter</p></li>
+<li data-cat="nature weaving" data-mess="low" data-place="ute"><h2><a href="projects/nature-loom.html">Väv en naturvävstol</a></h2><p class="meta">9–12 år · 30–45 minuter · Lite stök · Utomhus</p><p class="meta">Kategorier: Natur, Vävning</p></li>
+<li data-cat="yarn recycled" data-mess="low" data-place="inne"><h2><a href="projects/cardboard-loom-bracelets.html">Vänskapsarmband med kartongvävstol</a></h2><p class="meta">9–12 år · 30–45 minuter · Lite stök · Inomhus eller på resan</p><p class="meta">Kategorier: Garn, Återbruk</p></li>
+<li data-cat="paper seasonal-any" data-mess="low" data-place="inne"><h2><a href="projects/pop-up-cards.html">Popup-kort – tre enkla tekniker</a></h2><p class="meta">9–12 år · 20–40 minuter per kort · Lite stök · Inomhus</p><p class="meta">Kategorier: Papper, Alla högtider</p></li>
+<li data-cat="costume recycled" data-mess="medium" data-place="inne"><h2><a href="projects/robot-mask.html">Robotmask av flingpaket</a></h2><p class="meta">9–12 år · 45 minuter · Lagom stök · Inomhus</p><p class="meta">Kategorier: Utklädnad, Återbruk</p></li>
+<li data-cat="paper seasonal-christmas" data-mess="low" data-place="inne"><h2><a href="projects/woven-heart-basket.html">Flätade julhjärtan</a></h2><p class="meta">9–12 år · 20–30 minuter · Lite stök · Inomhus</p><p class="meta">Kategorier: Papper, Jul</p></li>
+<li data-cat="paper seasonal-autumn recycled halloween" data-mess="high" data-place="inne"><h2><a href="projects/tissue-paper-lantern.html">Lykta av silkespapper och papier-maché</a></h2><p class="meta">9–12 år · 45 minuter + 1–2 dygns torktid · Mycket stök · Inomhus</p><p class="meta">Kategorier: Papper, Höst &amp; Halloween, Återbruk, Halloween</p></li>
+<li data-cat="paper halloween seasonal-autumn" data-mess="low" data-place="inne"><h2><a href="projects/origami-bat-bookmark.html">Fladdermus-bokmärke i origami</a></h2><p class="meta">9–12 år · 15–20 minuter · Lite stök · Inomhus eller på resan</p><p class="meta">Kategorier: Papper, Halloween, Höst &amp; Halloween</p></li>
+<li data-cat="recycled paper halloween seasonal-autumn" data-mess="medium" data-place="inne"><h2><a href="projects/tp-roll-bat-pinata.html">Fladdermus-piñata av toarulle</a></h2><p class="meta">9–12 år · 30–40 minuter + torktid för färgen · Lagom stök · Inomhus</p><p class="meta">Kategorier: Återbruk, Papper, Halloween, Höst &amp; Halloween</p></li>
+<li data-cat="STEM-light paper halloween seasonal-autumn" data-mess="low" data-place="inne"><h2><a href="projects/halloween-shadow-theatre.html">Spöklik skuggteater</a></h2><p class="meta">9–12 år · 45–60 minuter · Lite stök · Inomhus</p><p class="meta">Kategorier: Teknik &amp; experiment, Papper, Halloween, Höst &amp; Halloween</p></li>
+<li data-cat="paper halloween seasonal-autumn" data-mess="low" data-place="inne"><h2><a href="projects/halloween-mobile.html">Halloween-mobil</a></h2><p class="meta">9–12 år · 45–60 minuter · Lite stök · Inomhus</p><p class="meta">Kategorier: Papper, Halloween, Höst &amp; Halloween</p></li>
+<li data-cat="paper costume halloween seasonal-autumn" data-mess="low" data-place="inne"><h2><a href="projects/paper-witch-hat.html">Häxhatt av papper</a></h2><p class="meta">9–12 år · 45 minuter · Lite stök · Inomhus</p><p class="meta">Kategorier: Papper, Utklädnad, Halloween, Höst &amp; Halloween</p></li>
+<li data-cat="yarn weaving halloween seasonal-autumn" data-mess="low" data-place="inne"><h2><a href="projects/craft-stick-spider-web.html">Spindelnät av glasspinnar och garn</a></h2><p class="meta">9–12 år · 30 minuter + torktid för limmet · Lite stök · Inomhus</p><p class="meta">Kategorier: Garn, Vävning, Halloween, Höst &amp; Halloween</p></li>
+<li data-cat="STEM-light halloween seasonal-autumn" data-mess="medium" data-place="inne"><h2><a href="projects/squishy-circuit-pumpkin.html">Lysande pumpa av strömdeg</a></h2><p class="meta">9–12 år · 30–45 minuter · Lagom stök · Inomhus</p><p class="meta">Kategorier: Teknik &amp; experiment, Halloween, Höst &amp; Halloween</p></li>
+</ul>
+<p id="tomt" hidden>Inga pyssel matchar alla filter. Prova att ta bort ett filter.</p>
+<script>
+(function(){
+ var f=document.getElementById('filters'),items=[].slice.call(document.querySelectorAll('#lista>li')),out=document.getElementById('antal'),tomt=document.getElementById('tomt');
+ function vals(n){return [].slice.call(f.querySelectorAll('input[name='+n+']:checked')).map(function(i){return i.value})}
+ function has(list,v){return v.split(' ').some(function(x){return list.indexOf(x)>-1})}
+ function run(){var c=vals('cat'),m=vals('mess'),p=vals('place'),n=0;
+  items.forEach(function(li){var ok=(!c.length||has(c,li.dataset.cat))&&(!m.length||m.indexOf(li.dataset.mess)>-1)&&(!p.length||has(p,li.dataset.place));li.hidden=!ok;if(ok)n++});
+  out.textContent=n===items.length?'Visar alla '+n+' pyssel.':'Visar '+n+' av '+items.length+' pyssel.';tomt.hidden=n>0;}
+ var k=new URLSearchParams(location.search).get('kategori');
+ if(k){var box=f.querySelector('input[name=cat][value="'+k+'"]');if(box)box.checked=true;}
+ f.addEventListener('change',run);
+ document.getElementById('rensa').addEventListener('click',function(){f.querySelectorAll('input[type=checkbox]:not([disabled])').forEach(function(i){i.checked=false});run()});
+ run();
+})();
+</script>
+<noscript><p>Filtren kräver JavaScript. Alla pyssel visas ändå i listan.</p></noscript>
+
+</main>
+<footer class="site"><div class="wrap">
+<nav aria-label="Sidfot"><ul><li><a href="index.html">Hem</a></li><li><a href="pyssel.html" aria-current="page">Alla pyssel</a></li><li><a href="om.html">Om</a></li></ul></nav>
+<p>Craft Kids – pyssel för barn 9–12 år. Det här är ett <strong>utkast</strong> och är inte publicerat.</p>
+<p>Instruktionerna är omskrivna med egna ord. Originalkällorna anges på varje pysselsida.</p>
+</div></footer>
+</body></html>

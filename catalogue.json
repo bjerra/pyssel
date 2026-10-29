@@ -1,0 +1,572 @@
+{
+  "site": "Craft Kids",
+  "language": "sv",
+  "updated": "2026-10-29",
+  "notes": "Drafts only, not published (noindex + robots.txt Disallow). Swedish pages rewritten in own words; sources credited. Rebuild: python3 build/gen.py",
+  "items": [
+    {
+      "id": "balloon-car",
+      "title_en": "Build a Balloon Car",
+      "title_sv": "Bygg en ballongbil",
+      "category": [
+        "STEM-light",
+        "recycled"
+      ],
+      "time": "30–45 min",
+      "materials": [
+        "PET bottle",
+        "4 bottle caps",
+        "3 bendy straws",
+        "2 wooden skewers",
+        "balloon",
+        "rubber band",
+        "tape"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "Junk-to-toy build that kids can race and tweak, with Newton's laws thrown in.",
+      "source": "Science Buddies",
+      "url": "https://www.sciencebuddies.org/stem-activities/balloon-car",
+      "safety": "An adult should pierce the bottle caps (the source uses a hobby knife). Watch the skewer points. Balloons contain latex, so keep them away from younger siblings and anyone with a latex allergy.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/balloon-car.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "paper-roller-coaster",
+      "title_en": "Build a Paper Roller Coaster (marble run)",
+      "title_sv": "Bygg en berg-och-dalbana av papper",
+      "category": [
+        "paper",
+        "STEM-light"
+      ],
+      "time": "45–60 min (can expand)",
+      "materials": [
+        "cardstock/printed template",
+        "tape",
+        "scissors",
+        "marbles",
+        "cardboard base"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "An open-ended engineering challenge with loops and curves that stretches 9–12-year-olds without needing special tools.",
+      "source": "Science Buddies",
+      "url": "https://www.sciencebuddies.org/stem-activities/paper-roller-coaster",
+      "safety": "Marbles are a choking hazard for small siblings under 3.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/paper-roller-coaster.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "paper-whirlybird",
+      "title_en": "Make a Whirlybird from Paper",
+      "title_sv": "Gör en pappershelikopter",
+      "category": [
+        "paper",
+        "STEM-light"
+      ],
+      "time": "15–20 min",
+      "materials": [
+        "printer paper (template or hand-drawn)",
+        "scissors",
+        "paper clips",
+        "optional stopwatch"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "A quick win that turns into a real experiment: add paper clips, time the falls, and redesign the wings.",
+      "source": "Science Buddies",
+      "url": "https://www.sciencebuddies.org/stem-activities/whirlybird",
+      "safety": "Drop it from a safe height only, like a sturdy step stool with an adult nearby. Never lean over a balcony.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/paper-whirlybird.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "juice-carton-bird-feeder",
+      "title_en": "Juice-Carton Birdhouse Feeder",
+      "title_sv": "Fågelmatare av juicekartong",
+      "category": [
+        "recycled",
+        "nature",
+        "seasonal-winter"
+      ],
+      "time": "45 min + paint drying",
+      "materials": [
+        "empty juice/milk carton",
+        "scissors",
+        "pencil",
+        "ruler",
+        "stick or skewer",
+        "string",
+        "acrylic paint",
+        "bird seed"
+      ],
+      "mess": "medium",
+      "setting": "indoor build / outdoor use",
+      "why": "It reuses packaging and gets kids watching birds, which suits a Swedish winter when birds are fed.",
+      "source": "BBC CBBC – Blue Peter",
+      "url": "https://www.bbc.co.uk/cbbc/thingstodo/bp-bird-house-feeder",
+      "safety": "An adult can help with the first cut and with poking the hole. Wash the carton thoroughly. Wash hands after handling bird seed.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/juice-carton-bird-feeder.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "nature-loom",
+      "title_en": "Make a Nature Loom",
+      "title_sv": "Väv en naturvävstol",
+      "category": [
+        "nature",
+        "weaving"
+      ],
+      "time": "30–45 min",
+      "materials": [
+        "4 sticks",
+        "string",
+        "fallen grasses, leaves, flowers, feathers"
+      ],
+      "mess": "low",
+      "setting": "outdoor",
+      "why": "Free materials, a calm and mindful activity, and it looks different every season.",
+      "source": "Scottish Wildlife Trust",
+      "url": "https://scottishwildlifetrust.org.uk/resource/make-a-nature-loom/",
+      "safety": "Only use fallen material, not living plants. Avoid unknown berries and plants that might be toxic. Wash hands afterwards.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/nature-loom.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "cardboard-loom-bracelets",
+      "title_en": "Friendship Bracelets on a Cardboard Loom",
+      "title_sv": "Vänskapsarmband med kartongvävstol",
+      "category": [
+        "yarn",
+        "recycled"
+      ],
+      "time": "30–45 min",
+      "materials": [
+        "cardboard circle (cereal box)",
+        "7 strands of yarn or embroidery floss (~50 cm)",
+        "scissors",
+        "optional bead/button"
+      ],
+      "mess": "low",
+      "setting": "indoor / on the go",
+      "why": "A home-made kumihimo disc makes a classic 9–12 activity that is easy to learn, portable and good for giving away.",
+      "source": "Red Ted Art",
+      "url": "https://www.redtedart.com/friendship-bracelets-with-cardboard/",
+      "safety": "None significant. The source mentions an optional paid printable; the free page and video are enough.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/cardboard-loom-bracelets.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "pop-up-cards",
+      "title_en": "Pop-Up Cards (W-fold, paper-chain & stand-up methods)",
+      "title_sv": "Popup-kort – tre enkla tekniker",
+      "category": [
+        "paper",
+        "seasonal-any"
+      ],
+      "time": "20–40 min per card",
+      "materials": [
+        "A5 card",
+        "coloured paper",
+        "glue stick",
+        "scissors",
+        "pens"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "Simple paper engineering that works for any holiday or birthday, and the source says it suits tweens.",
+      "source": "Red Ted Art",
+      "url": "https://www.redtedart.com/pop-up-card-how-to-projects/",
+      "safety": "None significant.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/pop-up-cards.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "robot-mask",
+      "title_en": "Futuristic Robot Mask",
+      "title_sv": "Robotmask av flingpaket",
+      "category": [
+        "costume",
+        "recycled"
+      ],
+      "time": "45 min",
+      "materials": [
+        "cereal-box cardboard",
+        "aluminium foil",
+        "yarn",
+        "hole punch",
+        "craft glue",
+        "pipe cleaners",
+        "sticky notes"
+      ],
+      "mess": "medium",
+      "setting": "indoor",
+      "why": "A cheap costume piece made from a cereal box, good for Halloween or dress-up, and kids design their own controls.",
+      "source": "PBS KIDS for Parents",
+      "url": "https://www.pbs.org/parents/crafts-and-experiments/future-robot-mask",
+      "safety": "The source lists a glue gun: use craft glue/tape instead, or have an adult supervise a low-temp glue gun. Make sure eye openings give clear vision.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/robot-mask.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "woven-heart-basket",
+      "title_en": "Woven Paper Heart Basket",
+      "title_sv": "Flätade julhjärtan",
+      "category": [
+        "paper",
+        "seasonal-christmas"
+      ],
+      "time": "20–30 min",
+      "materials": [
+        "2 sheets coloured cardstock (A4)",
+        "printed or drawn template",
+        "scissors",
+        "glue",
+        "optional ribbon"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "A Scandinavian Christmas tradition that feels familiar to Swedish readers, with a weaving puzzle that challenges 9–12-year-olds.",
+      "source": "FirstPalette",
+      "url": "https://www.firstpalette.com/craft/woven-heart-basket.html",
+      "safety": "None significant.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/woven-heart-basket.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "tissue-paper-lantern",
+      "title_en": "Tissue-Paper Papier-Mâché Lantern (Halloween / St. Martin's)",
+      "title_sv": "Lykta av silkespapper och papier-maché",
+      "category": [
+        "paper",
+        "seasonal-autumn",
+        "recycled",
+        "halloween"
+      ],
+      "time": "45 min + 1–2 days drying",
+      "materials": [
+        "balloon",
+        "tissue paper (reused gift wrap)",
+        "flour-and-water paste",
+        "small scissors",
+        "tape",
+        "string",
+        "LED tea light"
+      ],
+      "mess": "high",
+      "setting": "indoor",
+      "why": "A messy, satisfying autumn project that fits Halloween and the dark-season lantern tradition.",
+      "source": "Red Ted Art",
+      "url": "https://www.redtedart.com/how-to-tissue-paper-halloween-lanterns/",
+      "safety": "Use LED tea lights only, never real candles. Don't dry it on a radiator, as the source warns. Balloons contain latex (allergy/choking risk for small children). Flour paste is non-toxic.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "html_path": "projects/tissue-paper-lantern.html",
+      "written_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ]
+    },
+    {
+      "id": "origami-bat-bookmark",
+      "title_en": "Simple Bat Corner Bookmark (easy origami bat)",
+      "title_sv": "Fladdermus-bokmärke i origami",
+      "category": [
+        "paper",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "15–20 min",
+      "materials": [
+        "square black paper (approx. 15×15 cm)",
+        "scraps of white/coloured paper",
+        "felt-tip or white gel pen",
+        "glue stick",
+        "scissors"
+      ],
+      "mess": "low",
+      "setting": "indoor / on the go",
+      "why": "Quick, cheap fold that ends up as a useful corner bookmark; good intro to origami and fine for a class or party table. Source is a video, so steps must be written up from the fold itself.",
+      "source": "Red Ted Art",
+      "url": "https://www.redtedart.com/simple-bat-corner-bookmark/",
+      "safety": "Low risk. Only children's scissors needed.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/origami-bat-bookmark.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "tp-roll-bat-pinata",
+      "title_en": "Toilet Paper Roll Bat Piñata / Goodie Bag",
+      "title_sv": "Fladdermus-piñata av toarulle",
+      "category": [
+        "recycled",
+        "paper",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "30–40 min + paint drying",
+      "materials": [
+        "empty toilet roll",
+        "black paint (acrylic or poster)",
+        "black card",
+        "googly eyes or paper eyes",
+        "PVA glue",
+        "silver/white pen",
+        "tissue paper",
+        "string",
+        "small treats or non-candy surprises"
+      ],
+      "mess": "medium",
+      "setting": "indoor",
+      "why": "Recycled and playful: one bat becomes bunting, a treat box or a mini 'trick or treat' piñata, so kids can choose the outcome.",
+      "source": "Red Ted Art",
+      "url": "https://www.redtedart.com/easy-halloween-craft-pinata-goodie-bag/",
+      "safety": "Acrylic paint stains clothes – use an apron and cover the table. Check treats for allergies (nuts, gelatine); small sweets are a choking risk for younger siblings.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/tp-roll-bat-pinata.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "halloween-shadow-theatre",
+      "title_en": "Making Shadow Puppets (with a Halloween shadow-play spin)",
+      "title_sv": "Spöklik skuggteater",
+      "category": [
+        "STEM-light",
+        "paper",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "45–60 min",
+      "materials": [
+        "torch/flashlight",
+        "cardstock or cereal-box card",
+        "craft sticks or wooden skewers",
+        "tape",
+        "scissors",
+        "pencil",
+        "light wall or white sheet",
+        "optional: clear and frosted plastic"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "Real light-and-shadow science (distance, angle, opaque vs. translucent) wrapped in a ghost/bat/witch story kids perform themselves. Perfect for dark October evenings. Halloween theming is our adaptation; the source is a general shadow activity.",
+      "source": "Science Buddies",
+      "url": "https://www.sciencebuddies.org/stem-activities/shadow-puppets",
+      "safety": "Prefer craft sticks over skewers; if skewers are used, cut off/tape the sharp tip. Don't shine the torch into anyone's eyes. Keep the floor clear when the room is dark.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/halloween-shadow-theatre.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "halloween-mobile",
+      "title_en": "Halloween Mobile",
+      "title_sv": "Halloween-mobil",
+      "category": [
+        "paper",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "45–60 min",
+      "materials": [
+        "cardstock",
+        "crayons/markers/colour pencils",
+        "glue",
+        "thin string",
+        "scissors",
+        "hole punch",
+        "optional beads",
+        "stick or embroidery hoop to hang from"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "Open-ended drawing of pumpkins, bats, ghosts and cats, plus a little balance problem when hanging it – a decoration kids are proud to put up.",
+      "source": "FirstPalette",
+      "url": "https://www.firstpalette.com/craft/halloween-mobile.html",
+      "safety": "Low risk. Skip the optional hot-laminate step (or adult does it). Hang out of reach of toddlers – string is a strangling risk for small children.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/halloween-mobile.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "paper-witch-hat",
+      "title_en": "Witch's Hat (paper)",
+      "title_sv": "Häxhatt av papper",
+      "category": [
+        "paper",
+        "costume",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "45 min",
+      "materials": [
+        "large black paper or thin card (approx. 60×90 cm)",
+        "black and yellow felt or craft foam",
+        "scissors",
+        "pencil",
+        "ruler",
+        "glue",
+        "compass or string-and-pencil"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "A real costume piece with real maths: measuring head size, drawing circles and a cone. Kids end up with something wearable for a Halloween party.",
+      "source": "FirstPalette",
+      "url": "https://www.firstpalette.com/craft/witch-hat.html",
+      "safety": "Compass point is sharp – use carefully or swap for a string-and-pencil 'compass'. No other hazards.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/paper-witch-hat.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "craft-stick-spider-web",
+      "title_en": "Halloween Spider Web Craft (with popsicle sticks)",
+      "title_sv": "Spindelnät av glasspinnar och garn",
+      "category": [
+        "yarn",
+        "weaving",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "30 min + glue drying",
+      "materials": [
+        "3 craft/popsicle sticks",
+        "yarn (black or white)",
+        "white glue",
+        "black paper",
+        "googly eyes",
+        "scissors"
+      ],
+      "mess": "low",
+      "setting": "indoor",
+      "why": "Calming over-under wrapping that trains fine motor skills, and a nice hanging decoration. Easy to extend: real spider-web facts (orb weavers vs. tangled webs).",
+      "source": "Easy Peasy and Fun",
+      "url": "https://www.easypeasyandfun.com/halloween-spider-web-craft/",
+      "safety": "Source suggests a glue gun as an option – use white glue instead, or an adult handles the glue gun. Otherwise low risk.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/craft-stick-spider-web.html",
+      "written_date": "2026-10-29"
+    },
+    {
+      "id": "squishy-circuit-pumpkin",
+      "title_en": "Squishy Circuits: light-up dough pumpkins and ghosts",
+      "title_sv": "Lysande pumpa av strömdeg",
+      "category": [
+        "STEM-light",
+        "halloween",
+        "seasonal-autumn"
+      ],
+      "time": "30–45 min (+ 20 min if making the dough)",
+      "materials": [
+        "conductive dough (store-bought play dough works) and insulating dough or modelling clay",
+        "4×AA battery holder with wires",
+        "AA batteries",
+        "jumbo LEDs",
+        "optional: orange/black food colouring"
+      ],
+      "mess": "medium",
+      "setting": "indoor",
+      "why": "Kids sculpt jack-o'-lanterns and ghosts that light up while learning circuits, short circuits and LED polarity. The strongest STEM item, but needs a few purchased parts (battery holder + LEDs, or a kit).",
+      "source": "Science Buddies (activity) + Science Buddies Blog (Halloween version)",
+      "url": "https://www.sciencebuddies.org/stem-activities/squishy-circuits",
+      "source_extra": "https://www.sciencebuddies.org/blog/electronics-and-play-dough-fun-tactile-family-science",
+      "safety": "Adult check needed: never let the battery-pack wires touch each other (short circuit, wires get hot). Low-voltage AA only – never mains power. Dough is salty and not for eating. Not a free-material project: needs a battery holder and LEDs.",
+      "age_band": "9-12",
+      "status": "written",
+      "full_page_written": true,
+      "url_verified": "2026-10-29",
+      "shortlisted_date": "2026-10-29",
+      "tags": [
+        "halloween"
+      ],
+      "html_path": "projects/squishy-circuit-pumpkin.html",
+      "written_date": "2026-10-29"
+    }
+  ],
+  "site_index": "pyssel.html",
+  "shared_css": "assets/style.css",
+  "site_pages": {
+    "home": "index.html",
+    "listing": "pyssel.html",
+    "about": "om.html"
+  }
+}
